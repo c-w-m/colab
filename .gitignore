@@ -42,13 +42,14 @@ htmlcov
 # Buildout
 .mr.developer.cfg
 
-# IDE project files
+# Editors
 .project
 .pydevproject
 .idea
 .vscode
 *.iml
 *.komodoproject
+.ipynb_checkpoints
 
 # Complexity
 output/*.html
